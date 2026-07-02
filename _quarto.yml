@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jediaz-biology.github.io"
+  title: "Jess Diaz"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

@@ -1,11 +1,27 @@
 ---
-title: "jediaz-biology.github.io"
+title: "Jess Diaz"
+image: images/profile.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - href: https://www.linkedin.com/in/jess-diaz-67004b366/
+      icon: "linkedin"
+      aria-label: LinkedIn url
+    - href: https://github.com/jediaz-biology
+      icon: "github"
+      aria-label: GitHub url
+    - href: mailto:jed213@pitt.edu
+      icon: "envelope-at"
+      aria-label: Email address
 ---
 
-This is a Quarto website.
+Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a 5th year PhD student in the Kohl Lab at the University of Pittsburgh.
 
-```{r}
-1 + 1
-```
+As a researcher, I am particularly interested in learning about how specifically different environmental elements and/or enrichment of animal enclosures may influence the health and wellness of animals living under human care. My research is very application-oriented with an eye towards conservation.
+
+I am also interested in academic teaching, and have experience teaching both lecture-based and lab-based courses in subjects such as ecology and biochemistry.
