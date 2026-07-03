@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+// colors
+$cream: #FBF5DD;
+$tan: #E7E1B1;
+$med-green: #306D29;
+$dark-green: #0D530E;
+
+// Base document colors
+$navbar-bg: $dark-green; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+//$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $med-green; // page text 
+$footer-bg: $med-green; // footer 
+//$link-color: $purple; // hyperlinks 
+
+/*-- scss:rules --*/
+
+header,h3 {
+  color: $dark-green;
+}

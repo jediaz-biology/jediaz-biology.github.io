@@ -1,0 +1,12 @@
+---
+title: "Resources"
+format: html
+---
+
+This page is just a list of my favorite resources, organized by theme/utility.
+
+### Coding Resources
+
+### Data Management/Organization
+
+### Fellowship/Job Search and Prep

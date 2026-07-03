@@ -17,9 +17,7 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
+    mainfont: Rubik
     toc: true
     page-layout: full
