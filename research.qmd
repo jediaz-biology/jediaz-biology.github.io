@@ -1,5 +1,17 @@
 ---
 title: "Research"
 format: html
+listing:
+  contents: projects
+  type: grid
+  sort: false
+  grid-item-align: center
 ---
+
+This page is a work in progress! Check back later for more updates.
+
+::: {#projects}
+:::
+
+
 

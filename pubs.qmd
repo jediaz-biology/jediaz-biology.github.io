@@ -2,11 +2,21 @@
 title: "Publications"
 ---
 
+[ORCID](https://orcid.org/0000-0003-3356-4577)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=9IHjjLkAAAAJ)
+
+------------------------------------------------------------------------
+
 ### Lead author publications
 
-1.  **Diaz J**, Redford KH, Reese AT. 2023. Captive and urban environments are associated with distinct gut microbiota in deer mice (*Peromyscus maniculatus*). *Biology Letters*. 19(3), 20220547. [Open Access Link](https://royalsocietypublishing.org/rsbl/article/19/3/20220547/63264/Captive-and-urban-environments-are-associated-with)
-2.  **Diaz J**, Reese AT. 2021. Possibilities and limits for using the gut microbiome to improve captive animal health. *Animal microbiome*. 3(1), 89. [Open Access Link](https://link.springer.com/article/10.1186/s42523-021-00155-8)
+1.  **Diaz J**, Redford KH, Reese AT. 2023. Captive and urban environments are associated with distinct gut microbiota in deer mice (*Peromyscus maniculatus*). *Biology Letters* 19(3), 20220547. [Open Access Link](https://royalsocietypublishing.org/rsbl/article/19/3/20220547/63264/Captive-and-urban-environments-are-associated-with)
+2.  **Diaz J**, Reese AT. 2021. Possibilities and limits for using the gut microbiome to improve captive animal health. *Animal microbiome* 3(1), 89. [Open Access Link](https://link.springer.com/article/10.1186/s42523-021-00155-8)
 
 ### Supporting author publications
 
-1.  Kuthyar S, **Diaz J**, Avalos-Villatoro F, Maltecca C, Tiezzi F, Dunn RR, Reese AT. 2023. Domestication shapes the pig gut microbiome and immune traits from the scale of lineage to population. *Journal of evolutionary biology.* 36(12), 1695-1711. [Open Access Link](https://academic.oup.com/jeb/article/36/12/1695/7577280)
+1.  Kuthyar S, **Diaz J**, Avalos-Villatoro F, Maltecca C, Tiezzi F, Dunn RR, Reese AT. 2023. Domestication shapes the pig gut microbiome and immune traits from the scale of lineage to population. *Journal of evolutionary biology* 36(12), 1695-1711. [Open Access Link](https://academic.oup.com/jeb/article/36/12/1695/7577280)
+
+### Additional research support
+
+-   Acknowledged contribution to study design in Williams et al. 2026. Captivity drives multi-generational shifts in the gut microbiome that mirror changing animal fitness. *mBio* 17(2). [Open Access Link](https://doi.org/10.1128/mbio.03516-25)

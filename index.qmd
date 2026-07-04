@@ -4,7 +4,7 @@ image: images/profile.jpg
 toc: false
 about:
   template: trestles
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 17em
   links:
     - href: https://www.linkedin.com/in/jess-diaz-67004b366/
