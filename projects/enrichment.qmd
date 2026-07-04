@@ -1,7 +1,0 @@
----
-title: "Environmental Enrichment"
-subtitle: "Testing the health impacts of enrichment in poison dart frogs and crayfish"
-format: html
----
-
-test3
