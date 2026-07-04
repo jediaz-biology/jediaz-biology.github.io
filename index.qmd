@@ -1,5 +1,5 @@
 ---
-title: "Jess Diaz"
+#title: "Jess Diaz"
 image: images/profile.jpg
 toc: false
 about:

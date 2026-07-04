@@ -11,21 +11,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This page is a work in progress! Check back later for more updates.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This page is a work in progress! Check back later for more updates.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaptive Microbiomes\n\n\nUnderstanding the microbial dynamics of animals under human care\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal milk and infant microbiomes\n\n\nExploring the role of maternal genetics on infant energy gain from milk\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/enrichment.html",
-    "href": "projects/enrichment.html",
-    "title": "Environmental Enrichment",
+    "objectID": "projects/Milk-Microbes/index.html",
+    "href": "projects/Milk-Microbes/index.html",
+    "title": "Maternal milk and infant microbiomes",
     "section": "",
-    "text": "test3"
+    "text": "Short blurb about the research goals\nCarmody Lab\nThesis and presentation information"
   },
   {
-    "objectID": "projects/captivemicrobiome.html",
-    "href": "projects/captivemicrobiome.html",
-    "title": "captivemicrobiome",
+    "objectID": "projects/Captive-Microbiome/index.html",
+    "href": "projects/Captive-Microbiome/index.html",
+    "title": "Captive Microbiomes",
     "section": "",
-    "text": "test1"
+    "text": "Short blurb about what the research goals are\nWhile working with Dr. Aspen Reese at UCSD, I discovered a deep interest in what happens to the microbiomes of animals when taken into human care. Microbiome composition is deeply tied to environment, and the environments of animals in captive spaces are fundamentally different from those of wild animals, in a way that could have implications for animal health. A casual curiosity turned into a full literature review, published in 2021 in the journal Animal Microbiome.\nTalk about peromyscus\nTalk about Whooping cranes"
   },
   {
     "objectID": "index.html",
@@ -33,13 +33,6 @@
     "title": "Jess Diaz",
     "section": "",
     "text": "Hello!\nI am a 5th year PhD student in the Kohl Lab at the University of Pittsburgh.\nAs a researcher, I am particularly interested in learning about how specifically different environmental elements and/or enrichment of animal enclosures may influence the health and wellness of animals living under human care. My research is very application-oriented with an eye towards conservation.\nI am also interested in academic teaching, and have experience teaching both lecture-based and lab-based courses in subjects such as ecology and biochemistry."
-  },
-  {
-    "objectID": "projects/carmody.html",
-    "href": "projects/carmody.html",
-    "title": "carmody",
-    "section": "",
-    "text": "test2"
   },
   {
     "objectID": "pubs.html",
@@ -53,6 +46,6 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "This page is a work in progress! Check back later for more updates.\nThis page is just a list of my favorite resources, organized by theme/utility.\n\nCoding Resources\n\n\nData Management/Organization\n\n\nFellowship/Job Search and Prep"
+    "text": "This page is a work in progress! Check back later for more updates.\nThis page is just a list of my favorite resources, organized by theme/utility.\n\nCoding Resources\n\n\nData Management/Organization\n\n\nFellowship/Job Search and Prep\n\n\nWebsite Building\nThis website was entirely built through R and Quarto, thanks so the helpful resources provided by Sam Shanny-Csik."
   }
 ]

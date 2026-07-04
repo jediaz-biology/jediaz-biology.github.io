@@ -1,5 +1,15 @@
 ---
-title: "index"
+title: "Captive Microbiomes" 
+subtitle: "Understanding the microbial dynamics of animals under human care"
+image: pig.jpg
+image-alt: "A picture of Jess standing in a pig pen collecting fecal samples"
 format: html
 ---
 
+Short blurb about what the research goals are
+
+While working with Dr. Aspen Reese at UCSD, I discovered a deep interest in what happens to the microbiomes of animals when taken into human care. Microbiome composition is deeply tied to environment, and the environments of animals in captive spaces are fundamentally different from those of wild animals, in a way that could have implications for animal health. A casual curiosity turned into a full literature review, published in 2021 in the journal *Animal Microbiome*.
+
+Talk about peromyscus
+
+Talk about Whooping cranes

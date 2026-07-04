@@ -12,3 +12,7 @@ This page is just a list of my favorite resources, organized by theme/utility.
 ### Data Management/Organization
 
 ### Fellowship/Job Search and Prep
+
+### Website Building
+
+This website was entirely built through R and Quarto, thanks so the helpful resources provided by [Sam Shanny-Csik](https://samanthacsik.github.io/).

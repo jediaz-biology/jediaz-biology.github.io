@@ -6,6 +6,7 @@ listing:
   type: grid
   sort: false
   grid-item-align: center
+  fields: [image, title, subtitle]
 ---
 
 This page is a work in progress! Check back later for more updates.
