@@ -3,6 +3,8 @@ title: "Resources"
 format: html
 ---
 
+This page is a work in progress! Check back later for more updates.
+
 This page is just a list of my favorite resources, organized by theme/utility.
 
 ### Coding Resources
