@@ -11,7 +11,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This page is a work in progress! Check back later for more updates.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaptive Microbiomes\n\n\nUnderstanding the microbial dynamics of animals under human care\n\n\n\n\n\n\n\n\n\n\nEnvironmental Enrichment\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal milk and infant microbiomes\n\n\nExploring the role of maternal genetics on infant energy gain from milk\n\n\n\n\n\nNo matching items"
+    "text": "This page is a work in progress! Check back later for more updates.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaptive Microbiomes\n\n\nUnderstanding the microbial dynamics of animals under human care\n\n\n\n\n\n\n\n\n\n\nEnvironmental Enrichment\n\n\nUnderstanding the impact of visual enrichment on animal health, behavior, and welfare\n\n\n\n\n\n\n\n\n\n\n\n\nMaternal milk and infant microbiomes\n\n\nExploring the role of maternal genetics on infant energy gain from milk\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/Milk-Microbes/index.html",
@@ -47,5 +47,12 @@
     "title": "Resources",
     "section": "",
     "text": "This page is a work in progress! Check back later for more updates.\nThis page is just a list of my favorite resources, organized by theme/utility.\n\nCoding Resources\n\n\nData Management/Organization\n\n\nFellowship/Job Search and Prep\n\n\nWebsite Building\nThis website was entirely built through R and Quarto, thanks so the helpful resources provided by Sam Shanny-Csik."
+  },
+  {
+    "objectID": "projects/Enrichment/index.html",
+    "href": "projects/Enrichment/index.html",
+    "title": "Environmental Enrichment",
+    "section": "",
+    "text": "As part of my PhD studies in the Kohl Lab at the University of Pittsburgh, I am exploring the impacts of visual environmental enrichment on the behavior and welfare of poison dart frogs and crayfish. This work is not yet published, but will be presented at the 2026 Animal Behavior Society meeting in Cincinnati OH."
   }
 ]

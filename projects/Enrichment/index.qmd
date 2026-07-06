@@ -1,5 +1,7 @@
 ---
 title: "Environmental Enrichment"
+subtitle: "Understanding the impact of visual enrichment on animal health, behavior, and welfare"
 format: html
 ---
 
+As part of my PhD studies in the [Kohl Lab](https://www.kohl-lab.com/) at the University of Pittsburgh, I am exploring the impacts of visual environmental enrichment on the behavior and welfare of poison dart frogs and crayfish. This work is not yet published, but will be presented at the 2026 Animal Behavior Society meeting in Cincinnati OH.
