@@ -16,4 +16,4 @@ This project helped me develop multiple skills, including:
 -   Experimental design of rodent gnotobiotic studies
 -   Rodent body composition measurements through Echo-MRI
 
-![Jess presenting her research at the 2020 National Collegiate Research Conference at Harvard](poster.jpg){fig-alt="Picture of Jess in front of a poster of her research" fig-align="left" width="554"}
+![Jess presenting her research at the 2020 National Collegiate Research Conference at Harvard](poster.jpg){fig-alt="Picture of Jess in front of a poster of her research" fig-align="left" width="450"}
