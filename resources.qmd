@@ -15,4 +15,4 @@ This page is just a list of my favorite resources, organized by theme/utility.
 
 ### Website Building
 
-This website was entirely built through R and Quarto, thanks so the helpful resources provided by [Sam Shanny-Csik](https://samanthacsik.github.io/).
+This website was entirely built through R and Quarto, thanks to the helpful resources provided by [Sam Shanny-Csik](https://samanthacsik.github.io/).
