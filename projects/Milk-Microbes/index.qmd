@@ -1,13 +1,19 @@
 ---
 title: "Maternal milk and infant microbiomes"
 subtitle: "Exploring the role of maternal genetics on infant energy gain from milk"
-image: anaerobic.jpg
+image: anaerobic_crop.jpg
 image-alt: "A picture of Jess conducting research in an anaerobic chamber in the Carmody Lab at Harvard"
 format: html
 ---
 
-Short blurb about the research goals
+As an undergraduate, I worked with Cary Allen-Blevins in the [Carmody Lab](https://nme.fas.harvard.edu/index.html) at Harvard studying the relationship between maternal milk profiles and infant microbiomes. This work culminated in a senior thesis titled "Milk and Microbes: Effects of secretor status on infant energy gain through the gut microbiome," and I presented this work at the National Collegiate Research Conference held at Harvard in 2020. This work has not yet been published.
 
-[Carmody Lab](https://nme.fas.harvard.edu/index.html)
+This project helped me develop multiple skills, including:
 
-Thesis and presentation information
+-   IRB-regulated participant recruitment of mothers and infants
+-   Microbiome extraction, PCR, and analysis
+-   Short-chain fatty acid analysis using HPLC
+-   Experimental design of rodent gnotobiotic studies
+-   Rodent body composition measurements through Echo-MRI
+
+![Jess presenting her research at the 2020 National Collegiate Research Conference at Harvard](poster.jpg){fig-alt="Picture of Jess in front of a poster of her research" fig-align="left" width="554"}
